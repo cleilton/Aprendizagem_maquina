@@ -1,0 +1,5 @@
+Descrição de arquivos/diretórios:
+
+/4th_trial_final_report/Restaurant_Clients_4th.ipynb        Relatório Final do Projeto
+/Data/                                                      Arquivos CSV compactados (necessário descompactá-los)
+/presentation_final.pdf                                     Slides relacionados a Apresentação do Projeto
