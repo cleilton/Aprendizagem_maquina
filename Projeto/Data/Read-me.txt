@@ -1,0 +1,1 @@
+Extrair arquivos .rar para obter os arquivos .csv
